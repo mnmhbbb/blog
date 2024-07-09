@@ -1,0 +1,26 @@
+[
+  {
+    "title": "seo",
+    "description": "검색엔진 최적화 태그 공부하기",
+    "date": "2022-08-08",
+    "category": "TIL",
+    "path": "seo",
+    "featured": true
+  },
+  {
+    "title": "next-styled-components",
+    "description": "Next.js에서 styled-components를 사용해서 스타일을 적용하려고 했는데, 위와 같은 에러메세지가 발생했다.",
+    "date": "2021-04-05",
+    "category": "TIL",
+    "path": "next-styled-components",
+    "featured": true
+  },
+  {
+    "title": "maximumFractionDigits",
+    "description": "자바스크립트로 숫자 천 단위마다 콤마 찍기",
+    "date": "2024-03-21",
+    "category": "JavaScript",
+    "path": "maximumFractionDigits",
+    "featured": true
+  }
+]
